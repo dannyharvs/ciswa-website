@@ -16,6 +16,12 @@
     padding: 25px;
     background-color: black;
     color: ghostwhite;
+/*    text-align: center;*/
+    
+}
+
+.col-sm-1 { 
+   width: 20%;
     text-align: center;
 }
 
@@ -32,7 +38,7 @@ ul {
 }
 
 
-.nav navbar-nav navbar-right {
+.navbar {
     font-family: 'Lato', sans-serif;
    font-size: 1em;
    margin-bottom:0px;
