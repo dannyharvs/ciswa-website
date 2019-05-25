@@ -1,4 +1,7 @@
-
+a {
+    
+    color: black;
+}
 .maincontainer {
     font-family: 'Lato', sans-serif;
    max-width: 1412px; 
@@ -28,7 +31,7 @@
 .icon-bar {
     background-color: #f9a015;
     
-    
+   
 }
 
 ul {
@@ -41,8 +44,11 @@ ul {
 .navbar {
     font-family: 'Lato', sans-serif;
    font-size: 1em;
-   margin-bottom:0px;
-    color:black;
+}
+
+.nav > li > a:hover{
+    background-color: white;
+    font:white; 
 }
 
 .btn {
