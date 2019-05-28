@@ -30,7 +30,6 @@ a {
 
 .icon-bar {
     background-color: #f9a015;
-    
    
 }
 
@@ -44,11 +43,11 @@ ul {
 .navbar {
     font-family: 'Lato', sans-serif;
    font-size: 1em;
+  
 }
 
 .nav > li > a:hover{
     background-color: white;
-    font:white; 
 }
 
 .btn {
