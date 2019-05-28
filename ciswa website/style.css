@@ -20,7 +20,7 @@ a {
 .footer {
     font-family: 'Lato', sans-serif;
 /*    max-width: 1412px;*/
-    padding: 25px;
+    padding: 50px;
     background-color: black;
     color: ghostwhite;
 /*    text-align: center;*/
@@ -74,7 +74,7 @@ background-size: cover;
 .banner h1 {
     padding-top: 20px;
     font-family: 'Lato', sans-serif;
-    width: 500px;
+    width: 40%;
     font-size: 3em;
   font-weight: 700;
     font-style: italic;
