@@ -10,8 +10,9 @@ color: white;
 .dropdown-menu { 
     font-family: 'Lato', sans-serif;
     padding-top: 20px;
+    padding-bottom: 10px;
     color: black;
-    background-color: transparent;
+    background-color: white;
     text-align: center;
     
 }
@@ -61,16 +62,14 @@ ul {
 .navbar {
     font-family: 'Lato', sans-serif;
    font-size: 1em;
-    
-    
-  
-}
+    }
 
 
 .nav > li > a:hover{
     background-color: white;
     
 }
+
 
 .btn {
     color: white;
@@ -99,6 +98,7 @@ background-size: cover;
 h2 {
         font-family: 'Lato', sans-serif;
         font-weight: 600;
+    padding: 10px;
     }
 
 h3 {
@@ -107,7 +107,7 @@ h3 {
         font-weight: 600;
 }
 .col-sm-4 {
-    padding: 20px;
+    padding-bottom: 20px;
 }
 .col-sm-4 h3 { 
    font-family: 'Lato', sans-serif;
